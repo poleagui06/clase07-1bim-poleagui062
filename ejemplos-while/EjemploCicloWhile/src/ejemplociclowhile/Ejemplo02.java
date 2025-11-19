@@ -36,5 +36,7 @@ public class Ejemplo02 {
 }
 /*
 se escribe el numero por teclado, q en este caso será el limite.
-si el numero es 2, solo se imprime el 1, esto se debe por una condición (%2!=0)
+(contador % 2) calcula el residuo al dividir entre 2.
+Si el residuo es distinto de 0 (!= 0), entonces es impar.
+Por eso solo imprime números impares.
 */
