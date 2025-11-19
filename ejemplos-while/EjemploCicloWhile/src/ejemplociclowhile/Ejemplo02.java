@@ -34,3 +34,7 @@ public class Ejemplo02 {
         
     }
 }
+/*
+se escribe el numero por teclado, q en este caso será el limite.
+si el numero es 2, solo se imprime el 1, esto se debe por una condición (%2!=0)
+*/
